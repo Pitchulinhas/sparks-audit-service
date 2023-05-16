@@ -1,4 +1,4 @@
-package com.sparks.api.config;
+package com.sparks.service.config;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.producer.ProducerConfig;
